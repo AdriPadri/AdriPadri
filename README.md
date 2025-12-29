@@ -1,6 +1,6 @@
 <!--## Hi there 👋-->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=AdriPadri&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Cibersecurity+Researcher&descAlignY=51&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Adrian+Ortega&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Cibersecurity+Researcher&descAlignY=51&descAlign=62)
 
 <div align="center">
 <a href="https://git.io/typing-svg">
